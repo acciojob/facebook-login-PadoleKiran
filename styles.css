@@ -43,6 +43,16 @@ a {
 .signup {
 	background-color: 42b72a;
 }
+
+.left img {
+  width: 100px;
+}
+
+.left p {
+  font-size: 18px;
+  color: #1c1e21;
+}
+
 /* .main {
 	display: flex;
 }
